@@ -2,6 +2,8 @@
 Predicted score: **Ecuador 3 – 0 Curaçao**
 Confidence: **High (~70%)**
 
+> **ACTUAL RESULT: Ecuador 0 – 0 Curaçao.** ❌ Big miss. Curaçao keeper Eloy Room made 15 saves — the most in a single WC match since records began (1966) — to earn Curaçao's first-ever World Cup point. Model, markets (ECU -1000) and form all wrong-footed by a historic goalkeeping display. Ecuador's MD1 toothlessness (0–1 IVC) carried over.
+
 Reasoning:
 - MD1: Ecuador lost 0–1 to Ivory Coast (under-performed their 19-game unbeaten run); Curaçao were thrashed 1–7 by Germany — leakiest defense in the tournament
 - Poisson model: xG Ecuador 1.93 – 0.68, W/D/L 67% / 21% / 12%, modal 1–0/2–0

@@ -1,7 +1,7 @@
 # Actual Results — WC 2026
 
 Live log of real match results vs our predictions. Updated as games progress.
-Last update: 2026-06-16 (matchday 1, Groups A–H complete; I–L kicking off June 16).
+Last update: 2026-06-20 (matchday 2 underway; Groups E & F MD2 complete).
 
 ## Group Stage — Matchday 1
 
@@ -24,6 +24,15 @@ Last update: 2026-06-16 (matchday 1, Groups A–H complete; I–L kicking off Ju
 | H | Spain vs Cape Verde | 0–0 | — | — | — |
 | H | Saudi Arabia vs Uruguay | 1–1 | — | — | — |
 
+## Group Stage — Matchday 2
+
+| Group | Match | Actual | Our Prediction | Winner Hit? | Exact? |
+|-------|-------|--------|----------------|-------------|--------|
+| E | Germany vs Ivory Coast | Germany 2–1 | Germany 2–1 | ✅ | ✅ |
+| E | Ecuador vs Curaçao | Ecuador 0–0 Curaçao | Ecuador 3–0 | ❌ | ❌ |
+| F | Netherlands vs Sweden | Netherlands 5–1 | Netherlands 2–1 | ✅ | ❌ |
+| F | Tunisia vs Japan | Tunisia 0–4 Japan | Tunisia 0–2 Japan | ✅ | ❌ |
+
 ## Knockout Stage
 
 | Date | Match | Predicted | Actual | Winner Hit? | Exact? |
@@ -32,10 +41,16 @@ Last update: 2026-06-16 (matchday 1, Groups A–H complete; I–L kicking off Ju
 
 ## Scorecard (matches we predicted)
 
-- Predicted & played: 6
-- Winner correct: 3/6 (50%) — Mexico, USA, Sweden
-- Exact score: 0/6 (0%)
-- Misses: S.Korea–Czechia (drew predicted, Korea won), Canada–Bosnia (predicted Canada, drew), Qatar–Switzerland (predicted SUI, drew)
+- Predicted & played: 10
+- Winner correct: 6/10 (60%) — Mexico, USA, Sweden, Germany, Netherlands, Japan
+- Exact score: 1/10 (10%) — Germany 2–1 Ivory Coast
+- Misses: S.Korea–Czechia (drew predicted, Korea won), Canada–Bosnia (predicted Canada, drew), Qatar–Switzerland (predicted SUI, drew), Ecuador–Curaçao (predicted ECU 3–0, drew 0–0)
+
+### MD2 notes (June 20)
+- **Germany 2–1 Ivory Coast** — exact hit; Undav brace off the bench, winner in stoppage time. IVC scored & competed as flagged.
+- **Ecuador 0–0 Curaçao** — only miss of the day. Curaçao GK Eloy Room made 15 saves (most in a WC match since 1966) for their first-ever WC point; market had ECU at -1000.
+- **Netherlands 5–1 Sweden** — right winner, underestimated margin; Dutch top Group F. Sweden's MD1 5–1 flattered them.
+- **Tunisia 0–4 Japan** — right winner & clean sheet; Japan's 4–0 was the biggest WC win ever by an Asian nation, eliminating Tunisia.
 
 ## Notes vs group predictions (groups.md)
 

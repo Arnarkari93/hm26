@@ -2,6 +2,8 @@
 Predicted score: **Netherlands 2 – 1 Sweden**
 Confidence: **Medium (~55%)**
 
+> **ACTUAL RESULT: Netherlands 5 – 1 Sweden.** ✅ Right winner, wrong margin. Predicted a tight 2–1; got a Dutch rout that sent them top of Group F. Underestimated Netherlands' ceiling and overrated Sweden's MD1 5–1 (flattering vs a poor Tunisia). Got the BTTS right (Sweden scored) but not the blowout.
+
 Reasoning:
 - MD1: Netherlands held 2–2 by Japan (dropped 2pts as flagged in groups.md); Sweden routed Tunisia 5–1 and sit top of Group F on GD — far exceeding our pre-tournament "1pt also-ran" read
 - Poisson model: xG Netherlands 1.92 – 0.90, W/D/L 61% / 22% / 17%, modal 1–0/2–0
