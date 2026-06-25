@@ -1,7 +1,7 @@
 # Actual Results — WC 2026
 
 Live log of real match results vs our predictions. Updated as games progress.
-Last update: 2026-06-20 (matchday 2 underway; Groups E & F MD2 complete).
+Last update: 2026-06-25 (MD3 Groups A/B/C complete; Groups D/E/F MD3 kicking off, results pending).
 
 ## Group Stage — Matchday 1
 
@@ -32,6 +32,35 @@ Last update: 2026-06-20 (matchday 2 underway; Groups E & F MD2 complete).
 | E | Ecuador vs Curaçao | Ecuador 0–0 Curaçao | Ecuador 3–0 | ❌ | ❌ |
 | F | Netherlands vs Sweden | Netherlands 5–1 | Netherlands 2–1 | ✅ | ❌ |
 | F | Tunisia vs Japan | Tunisia 0–4 Japan | Tunisia 0–2 Japan | ✅ | ❌ |
+
+## Group Stage — Matchday 3
+
+### Groups A/B/C (June 25) — final group games, not pre-predicted
+
+| Group | Match | Actual | Our Prediction | Winner Hit? | Exact? |
+|-------|-------|--------|----------------|-------------|--------|
+| A | Mexico vs Czechia | Mexico 3–0 | — | — | — |
+| A | South Africa vs South Korea | South Africa 1–0 | — | — | — |
+| B | Switzerland vs Canada | Switzerland 2–1 | — | — | — |
+| B | Bosnia & Herzegovina vs Qatar | Bosnia 3–1 | — | — | — |
+| C | Brazil vs Scotland | Brazil 3–0 | — | — | — |
+| C | Morocco vs Haiti | Morocco 4–2 | — | — | — |
+
+### Groups D/E/F (June 25) — PREDICTED, results pending (4–10pm ET kickoffs)
+
+| Group | Match | Our Prediction | Actual |
+|-------|-------|----------------|--------|
+| E | Ecuador vs Germany | Ecuador 1–2 Germany | _pending_ |
+| E | Curaçao vs Ivory Coast | Curaçao 0–1 Ivory Coast | _pending_ |
+| F | Japan vs Sweden | Japan 2–1 Sweden | _pending_ |
+| F | Tunisia vs Netherlands | Tunisia 0–2 Netherlands | _pending_ |
+| D | United States vs Türkiye | USA 2–1 Türkiye | _pending_ |
+| D | Paraguay vs Australia | Paraguay 1–1 Australia | _pending_ |
+
+### MD3 A/B/C notes (June 25)
+- **South Africa 1–0 South Korea** — South Africa reach the WC knockout rounds for the first time in their history.
+- **Switzerland 2–1 Canada** — Canada scrape through despite the loss; Switzerland top Group B.
+- **Brazil 3–0 Scotland** — Scotland eliminated; Brazil cruise.
 
 ## Knockout Stage
 
