@@ -46,12 +46,23 @@ Last update: 2026-06-25 (MD3 Groups A/B/C complete; Groups D/E/F MD3 kicking off
 | C | Brazil vs Scotland | Brazil 3–0 | — | — | — |
 | C | Morocco vs Haiti | Morocco 4–2 | — | — | — |
 
+### Groups J/K/L (June 27) — PREDICTED, results pending
+
+| Group | Match | Our Prediction | Actual |
+|-------|-------|----------------|--------|
+| J | Jordan vs Argentina | Argentina 3–0 Jordan | _pending_ |
+| J | Algeria vs Austria | Algeria 1–1 Austria | _pending_ |
+| K | Colombia vs Portugal | Portugal 2–1 Colombia | _pending_ |
+| K | DR Congo vs Uzbekistan | DR Congo 1–0 Uzbekistan | _pending_ |
+| L | Panama vs England | England 2–0 Panama | _pending_ |
+| L | Croatia vs Ghana | Croatia 3–0 Ghana | _pending_ |
+
 ### Groups D/E/F (June 25) — PREDICTED, results pending (4–10pm ET kickoffs)
 
 | Group | Match | Our Prediction | Actual |
 |-------|-------|----------------|--------|
-| E | Ecuador vs Germany | Ecuador 1–2 Germany | _pending_ |
-| E | Curaçao vs Ivory Coast | Curaçao 0–1 Ivory Coast | _pending_ |
+| E | Ecuador vs Germany | Ecuador 1–1 Germany | _pending_ |
+| E | Curaçao vs Ivory Coast | Curaçao 0–2 Ivory Coast | _pending_ |
 | F | Japan vs Sweden | Japan 2–1 Sweden | _pending_ |
 | F | Tunisia vs Netherlands | Tunisia 0–2 Netherlands | _pending_ |
 | D | United States vs Türkiye | USA 2–1 Türkiye | _pending_ |
